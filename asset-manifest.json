@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/work6/static/css/main.f7a32782.chunk.css",
+    "main.js": "/work6/static/js/main.acb863b2.chunk.js",
+    "main.js.map": "/work6/static/js/main.acb863b2.chunk.js.map",
+    "runtime-main.js": "/work6/static/js/runtime-main.d0db5427.js",
+    "runtime-main.js.map": "/work6/static/js/runtime-main.d0db5427.js.map",
+    "static/js/2.4811bacf.chunk.js": "/work6/static/js/2.4811bacf.chunk.js",
+    "static/js/2.4811bacf.chunk.js.map": "/work6/static/js/2.4811bacf.chunk.js.map",
+    "index.html": "/work6/index.html",
+    "static/css/main.f7a32782.chunk.css.map": "/work6/static/css/main.f7a32782.chunk.css.map",
+    "static/js/2.4811bacf.chunk.js.LICENSE.txt": "/work6/static/js/2.4811bacf.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/work6/static/media/image-hero-mobile.d4f477d4.jpg",
+    "static/media/icon-check.bdee5269.svg": "/work6/static/media/icon-check.bdee5269.svg",
+    "static/media/icon-close-modal.732388df.svg": "/work6/static/media/icon-close-modal.732388df.svg",
+    "static/media/logo-mastercraft.dca2a831.svg": "/work6/static/media/logo-mastercraft.dca2a831.svg",
+    "static/media/logo.e6f12bc6.svg": "/work6/static/media/logo.e6f12bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0db5427.js",
+    "static/js/2.4811bacf.chunk.js",
+    "static/css/main.f7a32782.chunk.css",
+    "static/js/main.acb863b2.chunk.js"
+  ]
+}
